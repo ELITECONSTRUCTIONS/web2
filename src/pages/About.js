@@ -34,7 +34,7 @@ const PageAbout = () => {
             <Features classes={'sm-top'}/>
             <Testimonial/>
             <Team/>
-            <BrandLogo/>
+            {/* {<BrandLogo/> */}
             <Funfact classes="sp-top"/>
             <CallToAction/>
             <Footer/>

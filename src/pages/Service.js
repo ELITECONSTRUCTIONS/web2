@@ -32,7 +32,8 @@ const PageService = () => {
             <Services classes="sm-top"/>
             <PricingTable/>
             <Testimonial/>
-            <BrandLogo/>
+                        {/* {<BrandLogo/> */}
+
             <Funfact classes="sp-top"/>
             <CallToAction/>
             <Footer/>

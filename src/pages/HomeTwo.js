@@ -26,7 +26,8 @@ const HomeTwo = () => {
             <Testimonial/>
             <Team/>
             <Blog/>
-            <BrandLogo/>
+                        {/* {<BrandLogo/> */}
+
             <Funfact/>
             <CallToAction/>
             <Footer/>
