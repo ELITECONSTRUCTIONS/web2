@@ -18,8 +18,11 @@ const PrevArrow = ({className, onClick}) => {
 
 const Slider = () => {
         const settings = {
-            arrows: true,
+            arrows: false,
             dots: false,
+            autoplay: true,
+            autoplaySpeed: 2000 ,
+            infinite: true,
             nextArrow: <NextArrow/>,
             prevArrow: <PrevArrow/>,
             responsive: [
