@@ -19,13 +19,7 @@
     "megaMenu": false,
     "subMenu": false
   },
-  {
-    "id": 4,
-    "title": "Team",
-    "link": "/team",
-    "megaMenu": false,
-    "subMenu": false
-  },
+ 
   {
     "id": 6,
     "title": "Contact",

@@ -32,10 +32,10 @@ const PageAbout = () => {
             />
             <Services/>
             <Features classes={'sm-top'}/>
-            <Testimonial/>
+            {/* <Testimonial/>
             <Team/>
-            {/* {<BrandLogo/> */}
-            <Funfact classes="sp-top"/>
+             <BrandLogo/>
+            <Funfact classes="sp-top"/> */}
             <CallToAction/>
             <Footer/>
             <LoginRegister/>

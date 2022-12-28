@@ -3,7 +3,7 @@ import Text from "../UI/Text";
 import Widget from "../UI/Widget";
 import List from "../UI/List";
 import LI from "../UI/List/Item";
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 import Logo from '../../assets/img/logo-dark.png'
 
 function Footer() {
@@ -15,7 +15,7 @@ function Footer() {
                         <div className="widget-item">
                             <div className="about-widget">
                                 <Link to={`${process.env.PUBLIC_URL + "/"}`}>
-                                    <img src={Logo} alt="Logo"/>
+                                    <img src={Logo} alt="Logo" />
                                 </Link>
 
                                 <Text>
@@ -54,8 +54,8 @@ function Footer() {
                     <div className="col-md-4 col-lg-3">
                         <Widget title="Contact Us">
                             <address>
-                                2005 Stokes Isle Apartment. 896, Washington 10010, USA <br/>
-                                https://example.com <br/>
+                                1379/11 Nanda Nagar, 452011 <br /> opposite to ESIC hospital<br />
+                                https://example.com <br />
                                 (+68) 120034509
                             </address>
                         </Widget>

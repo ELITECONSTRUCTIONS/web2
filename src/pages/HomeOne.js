@@ -23,12 +23,12 @@ const HomeOne = () => {
             <About/>
             <Features classes="sp-top"/>
             <Services classes="sm-top-wt"/>
-            <Testimonials/>
-            <Team/>
+{/*             <Testimonials/>
+             <Team/>
             <Blog/>
-                        {/* {<BrandLogo/> */}
+                        {/* {<BrandLogo/> 
 
-            <Funfact/>
+            <Funfact/> */}
             <CallToAction/>
             <Footer/>
             <MobileMenu/>
