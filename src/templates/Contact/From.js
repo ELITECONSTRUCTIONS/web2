@@ -41,8 +41,12 @@ const From = () => {
     const submitHandler = (e) => {
         e.preventDefault();
         console.log("your message", responseFromUser)
+        var frm = document.getElementById('contact-form')
         axios.post("https://sheet.best/api/sheets/5bdfc6f1-7225-4bae-a0be-14bcd5e378d0", responseFromUser).then(response => {
             console.log("response from google sheets", response);
+            alert("message is sent!!!")
+            frm.submit();
+            frm.reset();
         });
 
     }
