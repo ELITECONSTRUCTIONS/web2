@@ -25,9 +25,11 @@ const PageService = () => {
             />
             <PageAbout
                 title={'Our Services'}
-                heading="Provide best <br/> Business Solutions"
+                heading="Provide best <br/> Engineering Solutions"
                 thumb={ServiceThumb}
-                content="<b>Businex</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+                content="<b>Elite</b> is a consultancy and construction company in Indore, that has pioneered innovation intelligent design, smart construction & exceptional build quality to craft affordable spaces for you. Here at ELITE we mainly emphasize on sustained standards, Schedule and creative vision. These core values have helped us to construct some of the most aspiring buildings.
+                Our roots are in Indore(MP) we have a core team of dedicated Civil engineers, visionary architects &  designers and civil contractors that facilitates Vastu architect, architectural plans, civil drawings, civil consultancy, civil constructions and turn-key solutions.
+                ."
             />
             <Services classes="sm-top"/>
            {/* <PricingTable/>

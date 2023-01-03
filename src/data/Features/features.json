@@ -2,19 +2,19 @@
   {
     "id": 1,
     "title": "Creative Team",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "We have a core team of dedicated Civil engineers, visionary architects &  designers and civil contractors",
     "imgSrc": "feature/01.png"
   },
   {
     "id": 2,
     "title": "Best Service",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "Consultancy & construction, turnkey projects, planning and working drawings.",
     "imgSrc": "feature/02.png"
   },
   {
     "id": 3,
-    "title": "Online Support",
-    "text": "We have creative team, they always ready to help you.",
+    "title": "Trust",
+    "text": "We keep our promise and deliver what is pledged. And by doing so, we earned the unfaltering trust of our clients.",
     "imgSrc": "feature/03.png"
   }
 ]
