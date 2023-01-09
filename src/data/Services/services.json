@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Creative Ideas",
+    "title": "Architectural services",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
     "thumb": "service/01.jpg",
     "previewImages": [
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "title": "Digital Solutions",
+    "title": "Interior Designing",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
     "thumb": "service/02.jpg",
     "previewImages": [
@@ -33,7 +33,7 @@
   },
   {
     "id": 3,
-    "title": "Brand & Communication",
+    "title": "Structural drawings",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
     "thumb": "service/03.jpg",
     "previewImages": [
@@ -49,7 +49,7 @@
   },
   {
     "id": 4,
-    "title": "Creative Strategy",
+    "title": "Civil consultancy services",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
     "thumb": "service/04.jpg",
     "previewImages": [
@@ -65,7 +65,7 @@
   },
   {
     "id": 5,
-    "title": "Marketing Policy",
+    "title": "Civil construction services",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
     "thumb": "service/05.jpg",
     "previewImages": [
@@ -81,7 +81,7 @@
   },
   {
     "id": 6,
-    "title": "Campaign & PR",
+    "title": "Electrical and plumbing",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
     "thumb": "service/06.jpg",
     "previewImages": [

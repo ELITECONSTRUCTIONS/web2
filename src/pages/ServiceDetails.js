@@ -15,11 +15,11 @@ const PageServiceDetails = () => {
             <ServiceDetails/>
                         {/* {<BrandLogo/> */}
 
-            <Funfact/>
-            <CallToAction/>
+{/*             <---<Funfact/> --->
+ */}            <CallToAction/>
             <Footer/>
-            <LoginRegister/>
-            <MobileMenu/>
+{/*             <LoginRegister/>
+ */}            <MobileMenu/>
         </Fragment>
     );
 };

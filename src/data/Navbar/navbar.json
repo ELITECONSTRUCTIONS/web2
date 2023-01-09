@@ -19,7 +19,13 @@
     "megaMenu": false,
     "subMenu": false
   },
- 
+  {
+    "id": 5,
+    "title": "Projects",
+    "link": "/blog-grid-without-sidebar",
+    "megaMenu": false,
+    "subMenu":false
+  },
   {
     "id": 6,
     "title": "Contact",
