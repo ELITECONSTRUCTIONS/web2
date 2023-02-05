@@ -10,7 +10,7 @@ const PageBlogGrid = () => {
     return (
         <Fragment>
             <Header/>
-            <BlogPage blog_type={'grid'} sidebar={false} sidebar_position={'left'} />
+            <BlogPage blog_type={'grid'} sidebar={false} sidebar_position={'left'} showContent={false}/>
             <CallToAction/>
             <Footer/>
             <LoginRegister/>
