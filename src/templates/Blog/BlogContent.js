@@ -23,7 +23,7 @@ const BlogContent = (props) => {
             currentPage: currentPage
         }
     });
-
+    console.log("inside content",props)
     return (
         <div className={props.cols + ' ' + props.classes}>
             <Fragment>
@@ -32,7 +32,10 @@ const BlogContent = (props) => {
                         {
                             props.blog_type === 'list' ? (
                                 <div className={'col-12'}>
+                                    
                                     {
+                                        
+                                        
                                         currentPosts.map(blog => (
                                             <BlogItemList
                                                 key={blog.id}
@@ -44,10 +47,13 @@ const BlogContent = (props) => {
                                                 date={blog.publishDate}
                                             />
                                         ))
+                                        
                                     }
                                 </div>
                             ) : (
-                                currentPosts.map(blog => (
+                                <>
+                                {console.log("check",props)}
+                                { currentPosts.map(blog => (
                                     <BlogItem
                                         key={blog.id}
                                         id={blog.id}
@@ -57,8 +63,11 @@ const BlogContent = (props) => {
                                         excerpt={blog.excerpt}
                                         postBy={blog.author.name}
                                         date={blog.publishDate}
+                                        type={blog.type}
                                     />
                                 ))
+                                }
+                                </>
                             )
                         }
                     </div>

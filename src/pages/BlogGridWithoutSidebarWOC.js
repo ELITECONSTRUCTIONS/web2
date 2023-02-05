@@ -7,10 +7,11 @@ import MobileMenu from "../components/MobileMenu";
 import CallToAction from "../components/CallToAction";
 
 const PageBlogGrid = () => {
+    console.log('inside woc page')
     return (
         <Fragment>
             <Header/>
-            <BlogPage blog_type={'grid'} sidebar={false} sidebar_position={'left'} showContent={false}/>
+            <BlogPage blog_type={'grid'} sidebar={false} sidebar_position={'left'} showContent={false} pagefor={'normal'}/>
             <CallToAction/>
             <Footer/>
             <LoginRegister/>

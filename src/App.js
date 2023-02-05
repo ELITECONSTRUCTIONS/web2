@@ -11,6 +11,10 @@ import ServiceDetails from "./pages/ServiceDetails";
 import BlogGridRightSidebar from './pages/BlogGridRightSidebar';
 import BlogGridLeftSidebar from './pages/BlogGridLeftSidebar';
 import BlogGridWithoutSidebar from './pages/BlogGridWithoutSidebar';
+import BlogGridWithoutSidebarPlanning from './pages/BlogGridWithoutSidebar';
+import BlogGridWithoutSidebarInterior from './pages/BlogGridWithoutSidebar';
+import BlogGridWithoutSidebarElevation from './pages/BlogGridWithoutSidebar';
+import BlogGridWithoutSidebarWOC from './pages/BlogGridWithoutSidebarWOC';
 import BlogListLeftSidebar from './pages/BlogListLeftSidebar';
 import BlogListRightSidebar from './pages/BlogListRightSidebar';
 import BlogDetailsPage from "./pages/BlogDetails";
@@ -34,6 +38,14 @@ const App = () => {
                            component={BlogGridLeftSidebar}/>
                     <Route exact path={`${process.env.PUBLIC_URL + "/blog-grid-without-sidebar"}`}
                            component={BlogGridWithoutSidebar}/>
+                    <Route exact path={`${process.env.PUBLIC_URL + "/blog-grid-without-sidebar-planning"}`}
+                           component={BlogGridWithoutSidebarPlanning}/>
+                    <Route exact path={`${process.env.PUBLIC_URL + "/blog-grid-without-sidebar-interior"}`}
+                           component={BlogGridWithoutSidebarInterior}/>
+                    <Route exact path={`${process.env.PUBLIC_URL + "/blog-grid-without-sidebar-elevation"}`}
+                           component={BlogGridWithoutSidebarElevation}/>
+                    <Route exact path={`${process.env.PUBLIC_URL + "/blog-grid-without-sidebar-woc"}`}
+                           component={BlogGridWithoutSidebarWOC}/>
                     <Route exact path={`${process.env.PUBLIC_URL + "/blog-list-left-sidebar"}`}
                            component={BlogListLeftSidebar}/>
                     <Route exact path={`${process.env.PUBLIC_URL + "/blog-list-right-sidebar"}`}
