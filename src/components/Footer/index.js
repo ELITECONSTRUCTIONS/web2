@@ -35,7 +35,6 @@ function Footer() {
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/about"}`}>Our company</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/contact"}`}>Contact us</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/services"}`}>Our services</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/"}`}>Careers</Link></LI>
                             </List>
                         </Widget>
                     </div>
