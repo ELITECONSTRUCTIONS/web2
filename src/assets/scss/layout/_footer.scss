@@ -1,10 +1,22 @@
 /*===========================
 --. Footer Style CSS
 ===========================*/
-.footer-area,.call-top-action-wrap {
+.call-top-action-wrap {
   background-color: $offWhite;
 }
+.footer-area{
+  background-color: black;
+  
 
+    color: white !important;
+
+}
+.widget-list li a {
+  color: white !important;
+}
+.widget-item .widget-title{
+  color: white !important;
+}
 .widget-item {
   margin-top: 38px;
 

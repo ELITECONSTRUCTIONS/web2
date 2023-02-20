@@ -8,7 +8,7 @@ import Logo from '../../assets/img/logo-dark.png'
 
 function Footer() {
     return (
-        <footer className="footer-area sp-bottom">
+        <footer className="footer-area sp-bottom ">
             <div className="container">
                 <div className="row mtn-40">
                     <div className="col-lg-4 order-4 order-lg-0">

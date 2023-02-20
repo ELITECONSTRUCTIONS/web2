@@ -7,22 +7,22 @@ function ServiceItem(props) {
         <div className="col-sm-6 col-lg-4">
             <div className="service-item">
                 <figure className="service-thumb">
-                    <Link to={`${process.env.PUBLIC_URL + serviceURL}`}>
-                        <img src={require('../../assets/img/' + props.thumb)} alt={props.title}/>
-                    </Link>
-
+{/*                     <Link to={`${process.env.PUBLIC_URL + serviceURL}`}>
+ */}                        <img src={require('../../assets/img/' + props.thumb)} alt={props.title}/>
+{/*                     </Link>
+ */}
                     <figcaption className="service-txt">
                         <h5>{props.title}</h5>
                     </figcaption>
                 </figure>
-                <div className="service-content">
+               {/*  <div className="service-content">
                     <div className="service-content-inner">
                         <h5>
                             <Link to={`${process.env.PUBLIC_URL + serviceURL}`} className="stretched-link">{props.title}</Link>
                         </h5>
                         <p>{props.text}</p>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     );
