@@ -1,5 +1,8 @@
 import BlogData from '../../data/Blog/blog'
-import React, {Fragment, useState} from 'react';
+import BlogDataEle from '../../data/Blog/blogEle.json'
+import BlogDataInt from '../../data/Blog/blogInt.json'
+import BlogDataPlan from '../../data/Blog/blogPlan.json'
+import React, { Fragment, useEffect, useState } from 'react';
 import Pagination from "../../components/Pagination";
 import BlogItem from "../../components/Blog/blogItem";
 import BlogItemList from "../../components/Blog/blogItemList";
@@ -10,7 +13,30 @@ const BlogContent = (props) => {
         currentPage: 1,
         postsPerPage: 6
     });
-
+    useEffect(()=>{
+        if (localStorage.getItem('page') == 'planning') {
+            setState({
+                posts: BlogDataPlan.reverse(),
+                currentPage: 1,
+                postsPerPage: 6
+            })
+        }
+        else if (localStorage.getItem('page') == 'elevation') {
+            setState({
+                posts: BlogDataEle.reverse(),
+                currentPage: 1,
+                postsPerPage: 6
+            })
+        }
+        else {
+            setState({
+                posts: BlogDataInt.reverse(),
+                currentPage: 1,
+                postsPerPage: 6
+            })
+        }
+    },[])
+    
     // Get current posts
     const indexOfLastPost = state.currentPage * state.postsPerPage;
     const indexOfFirstPost = indexOfLastPost - state.postsPerPage;
@@ -23,7 +49,7 @@ const BlogContent = (props) => {
             currentPage: currentPage
         }
     });
-    console.log("inside content",props)
+    console.log("inside content", props)
     return (
         <div className={props.cols + ' ' + props.classes}>
             <Fragment>
@@ -32,10 +58,10 @@ const BlogContent = (props) => {
                         {
                             props.blog_type === 'list' ? (
                                 <div className={'col-12'}>
-                                    
+
                                     {
-                                        
-                                        
+
+
                                         currentPosts.map(blog => (
                                             <BlogItemList
                                                 key={blog.id}
@@ -47,26 +73,26 @@ const BlogContent = (props) => {
                                                 date={blog.publishDate}
                                             />
                                         ))
-                                        
+
                                     }
                                 </div>
                             ) : (
                                 <>
-                                {console.log("check",props)}
-                                { currentPosts.map(blog => (
-                                    <BlogItem
-                                        key={blog.id}
-                                        id={blog.id}
-                                        cols={props.cols === 'col-12' ? 'col-md-6 col-lg-4' : 'col-md-6'}
-                                        thumb={blog.thumb}
-                                        title={blog.title}
-                                        excerpt={blog.excerpt}
-                                        postBy={blog.author.name}
-                                        date={blog.publishDate}
-                                        type={blog.type}
-                                    />
-                                ))
-                                }
+                                    {console.log("check", props)}
+                                    {currentPosts.map(blog => (
+                                        <BlogItem
+                                            key={blog.id}
+                                            id={blog.id}
+                                            cols={props.cols === 'col-12' ? 'col-md-6 col-lg-4' : 'col-md-6'}
+                                            thumb={blog.thumb}
+                                            title={blog.title}
+                                            excerpt={blog.excerpt}
+                                            postBy={blog.author.name}
+                                            date={blog.publishDate}
+                                            type={blog.type}
+                                        />
+                                    ))
+                                    }
                                 </>
                             )
                         }

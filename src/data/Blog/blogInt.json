@@ -1,0 +1,92 @@
+[
+  {
+    "id":35,
+    "title":"Bedroom 1",
+    "type":"interior",
+    "excerpt": "",
+    "thumb": "interior/Bedroom 1/MASTER F.F.png", 
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },{
+    "id":36,
+    "title":"Cafe design",
+    "type":"interior",
+    "excerpt": "",
+    "thumb": "interior/Cafe design/MANAS 1.png", 
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },{
+    "id":37,
+    "title":"Living Room",
+    "type":"interior",
+    "excerpt": "",
+    "thumb": "interior/living room/IMG-20220519-WA0016.jpg", 
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },{
+    "id":38,
+    "title":"Office",
+    "type":"interior",
+    "excerpt": "",
+    "thumb": "interior/office/1.jpg", 
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },{
+    "id":39,
+    "title":"Tiwari ji",
+    "type":"interior",
+    "excerpt": "",
+    "thumb": "interior/Tiwari ji/F.F. 3D PLAN.jpg", 
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }}
+]

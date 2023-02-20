@@ -9,21 +9,21 @@ function BlogItem(props) {
                 {
                     props.thumb ? (
                          <figure className="blog-thumb">
-                            <Link to={`${process.env.PUBLIC_URL + blogURL}`}>
-                                {console.log("check url",props.thumb)}
+{/*                             <Link to={`${process.env.PUBLIC_URL + blogURL}`}>
+ */}                                {console.log("check url",props.thumb)}
                                 <img src={require('../../assets/img/' + props.thumb)} alt={props.title} />
-                            </Link>
+                            {/* </Link> */}
                         </figure>
                     ) : null
                 }
                 <div className="blog-content" style={{display:"flex", alignItems:"center",justifyContent:"center"}}>
-                    <h2 className="h5" ><Link to={`${process.env.PUBLIC_URL + blogURL}`}>{props.title}</Link></h2>
+                    <h2 className="h5" >{/* <Link to={`${process.env.PUBLIC_URL + blogURL}`}> */}{props.title}{/* </Link> */}</h2>
                     <p>{props.excerpt}</p>
 
                     <div className="blog-meta">
                         {/* <Link to={`${process.env.PUBLIC_URL + blogURL}`}>By: {props.postBy}</Link> */}
-                        <Link to={`${process.env.PUBLIC_URL + blogURL}`}>{props.date}</Link>
-                    </div>
+{/*                         <Link to={`${process.env.PUBLIC_URL + blogURL}`}>{props.date}</Link>
+ */}                    </div>
                 </div>
             </div>
         </div>)
