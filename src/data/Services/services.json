@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Architectural services",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/01.jpg",
+    "thumb": "service/el.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -35,7 +35,7 @@
     "id": 3,
     "title": "Structural drawings",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/03.jpg",
+    "thumb": "service/de.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -51,7 +51,7 @@
     "id": 4,
     "title": "Civil consultancy services",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/04.jpg",
+    "thumb": "service/as.webp",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -67,7 +67,7 @@
     "id": 5,
     "title": "Civil construction services",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/05.jpg",
+    "thumb": "service/co.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -83,7 +83,7 @@
     "id": 6,
     "title": "Electrical and plumbing",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/06.jpg",
+    "thumb": "service/pl.jpg",
     "previewImages": [
       "service/details/03.jpg",
       "service/details/01.jpg",
