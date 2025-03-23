@@ -19,7 +19,7 @@
     "id": 2,
     "title": "Interior Designing",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/02.jpg",
+    "thumb": "new-uploads/Interior.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -51,7 +51,7 @@
     "id": 4,
     "title": "Civil consultancy services",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/as.webp",
+    "thumb": "new-uploads/CivilServices.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -67,7 +67,7 @@
     "id": 5,
     "title": "Civil construction services",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/co.jpg",
+    "thumb": "new-uploads/ConstructionService.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",

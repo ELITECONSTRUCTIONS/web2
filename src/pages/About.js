@@ -19,11 +19,11 @@ const PageAbout = () => {
     return (
         <Fragment>
             <Header/>
-            <PageHeader
+            {/* <PageHeader
                 bgImg={require('../assets/img/page-header.jpg')}
                 title="ABOUT US"
                 content="Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
-            />
+            /> */}
             <About
                 title={'Our Team'}
                 heading="Meet Our <br/> Expert Member"
