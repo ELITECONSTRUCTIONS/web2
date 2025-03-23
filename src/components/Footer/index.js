@@ -18,12 +18,8 @@ function Footer() {
                                     <img src={Logo} alt="Logo" />
                                 </Link>
 
-                                <Text>
-                                    During the summer my wife and I got to go on an amazing road trip in Vancouver.
-                                </Text>
-
                                 <Text classes="copyright-txt">
-                                    &copy; {new Date().getFullYear()} Businex Ltd. All Rights Reserved.
+                                    &copy; {new Date().getFullYear()} Elite Constructions. <br /> All Rights Reserved.
                                 </Text>
                             </div>
                         </div>
@@ -42,10 +38,8 @@ function Footer() {
                     <div className="col-md-4 col-lg-2 ml-auto">
                         <Widget title="Social Links">
                             <List classes="widget-list">
-                                <LI><Link to="https://facebook.com/hasthemes/" target={'_blank'}>Facebook</Link></LI>
-                                <LI><Link to="https://twitter.com/hasthemes/" target={'_blank'}>Twitter</Link></LI>
-                                <LI><Link to="https://dribbble.com/hastech/" target={'_blank'}>Dribbble</Link></LI>
-                                <LI><Link to="https://www.instagram.com/" target={'_blank'}>Instagram</Link></LI>
+                                <LI><a href="https://www.facebook.com/share/16ErDhhq7K/" target="_blank" rel="noopener noreferrer">Facebook</a></LI>
+                                <LI><a href="https://www.instagram.com/elite.constructions13?igsh=MWhidmF3bG14N2F2dw==" target="_blank" rel="noopener noreferrer">Instagram</a></LI>
                             </List>
                         </Widget>
                     </div>
@@ -53,9 +47,9 @@ function Footer() {
                     <div className="col-md-4 col-lg-3">
                         <Widget title="Contact Us">
                             <address>
-                                1379/11 Nanda Nagar, 452011 <br /> opposite to ESIC hospital<br />
-                                https://example.com <br />
-                                (+68) 120034509
+                                102/1, Sarwahara nagar, Indore <br /> Madhya Pradesh, India , 452003<br />
+                                https://elitebuildin.com/<br />
+                                (+91) 9827552765 <br /> (+91) 8962250708
                             </address>
                         </Widget>
                     </div>
