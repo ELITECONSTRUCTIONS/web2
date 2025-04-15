@@ -30,6 +30,11 @@
     "id": 6,
     "title": "Contact",
     "link": "/contact"
+  },
+  {
+    "id": 7,
+    "title": "Gallery",
+    "link": "/gallery"
   }
 ]
 

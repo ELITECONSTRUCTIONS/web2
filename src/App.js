@@ -24,6 +24,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Error404 from "./pages/Error404";
 import ScrollToTop from "./helpers/ScrollToTop";
+import GalleryPage from './pages/Gallery';
 
 const App = () => {
     return (
@@ -58,6 +59,7 @@ const App = () => {
                     <Route exact path={`${process.env.PUBLIC_URL + '/home-one'}`} component={HomeOne}/>
                     <Route exact path={`${process.env.PUBLIC_URL + '/home-two'}`} component={HomeTwo}/>
                     <Route exact path={`${process.env.PUBLIC_URL + '/'}`} component={HomeOne}/>
+                    <Route exact path={`${process.env.PUBLIC_URL + '/gallery'}`} component={GalleryPage} />
                     <Route exact component={Error404}/>
                 </Switch>
             </ScrollToTop>

@@ -1,0 +1,210 @@
+.gallery-container {
+  padding: 40px 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.gallery-title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 32px;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 20px;
+  padding: 0 15px;
+}
+
+.gallery-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  height: 200px;
+}
+
+.gallery-item:hover {
+  transform: scale(1.03);
+}
+
+.gallery-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: all 0.3s ease;
+}
+
+.loading {
+  text-align: center;
+  padding: 50px 0;
+  font-size: 18px;
+  color: #777;
+}
+
+/* Lightbox styles */
+.lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  flex-direction: column;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: white;
+  background: transparent;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+.lightbox-content {
+  position: relative;
+  max-width: 90%;
+  max-height: 80vh;
+  display: flex;
+  align-items: center;
+}
+
+.lightbox-image {
+  max-width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+}
+
+.lightbox-nav {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: none;
+  font-size: 40px;
+  padding: 10px 15px;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 100;
+  border-radius: 50%;
+}
+
+.lightbox-nav.prev {
+  left: -60px;
+}
+
+.lightbox-nav.next {
+  right: -60px;
+}
+
+.lightbox-counter {
+  color: white;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  .gallery-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+
+  .lightbox-nav {
+    font-size: 30px;
+    padding: 5px 10px;
+  }
+
+  .lightbox-nav.prev {
+    left: -40px;
+  }
+
+  .lightbox-nav.next {
+    right: -40px;
+  }
+}
+
+/* Simple, clean header style that works well with black navbar */
+.gallery-header-simple {
+  padding: 50px 20px;
+  background-color: #f8f9fa; /* Light gray background */
+  text-align: center;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.gallery-header-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.gallery-header-title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.gallery-header-divider {
+  width: 60px;
+  height: 3px;
+  background-color: #222; /* Dark accent color */
+  margin: 0 auto 20px;
+}
+
+.gallery-header-description {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Updated header styles without background image */
+.gallery-header {
+  position: relative;
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #3498db, #2c3e50); /* Clean blue gradient */
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.gallery-header-title {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.gallery-header-subtitle {
+  font-size: 20px;
+  margin-bottom: 20px;
+  opacity: 0.9;
+}
+
+.gallery-header-divider {
+  width: 80px;
+  height: 3px;
+  background-color: #f7b731; /* Or use your brand color */
+  margin: 0 auto 20px;
+}
+
+.gallery-header-description {
+  font-size: 16px;
+  line-height: 1.6;
+  opacity: 0.8;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* Keep your existing CSS below this */
