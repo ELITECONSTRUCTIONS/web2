@@ -28,11 +28,11 @@ const About = () => {
                 padding: '20px'
             }}>
                 <div className="row align-items-center">
-                    <div className="col-12 d-lg-none">
+                   {/*  <div className="col-12 d-lg-none">
                         <figure className="about-thumb">
                             <img src={require('../../../assets/img/' + aboutData.thumb)} alt="Businex-About"/>
                         </figure>
-                    </div>
+                    </div> */}
 
                     <div className="col-lg-6">
                         <div className="about-content about-content--2">

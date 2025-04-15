@@ -33,7 +33,6 @@ const HomeTwo = () => {
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>
-            <PageGallery/>
         </Fragment>
     );
 };

@@ -20,7 +20,7 @@ const ContactPage = () => {
                                 <div className="contact-info-con">
                                     <h3>Contact Info</h3>
                                     <ContactInfo
-                                        address="1379/11 Nanda Nagar, 452011 <br/> opposite to ESIC hospital <br/>https://example.com <br/>(+68) 120034509"
+                                        address=" 102/1, Sarwahara nagar, Indore <br /> Madhya Pradesh, India , 452003<br /> <br/>https://elitebuildin.com/ <br/>(+91) 9827552765 <br/>(+91) 8962250708"
                                     />
                                 </div>
                             </div>
