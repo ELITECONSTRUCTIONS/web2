@@ -4,6 +4,7 @@ import PageHeader from "../../components/PageHeader";
 import BlogContent from "./BlogContent";
 import SidebarForBlog from "../SidebarForBlog";
 import projectImg from "../../assets/img/planningBoards.jpg"
+import projectImgNew from "../../assets/img/image.png"
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
@@ -39,7 +40,7 @@ const BlogPage = ({ sidebar_position, blog_type, sidebar, showContent = true }) 
                 {console.log("inside page")}
                 {sidebar === true && sidebar_position === 'left' ? <SidebarForBlog classes={'order-1 order-lg-0'} /> : null}
                 {showContent && <><BlogContent blog_type={blog_type} cols={sidebar ? 'col-lg-9' : 'col-12'} classes={sidebar_position === 'left' ? 'order-0 order-lg-1' : null} /></>}
-                {!showContent && <><img src={projectImg} usemap="#gfg_map" onClick={(e) => {
+                {!showContent && <><img src={projectImgNew} usemap="#gfg_map" onClick={(e) => {
                     handleOpen()
                 }} /><map name="gfg_map" color='red'>
                         {/**660,580,910,780 */}
