@@ -17,21 +17,21 @@ const BlogContent = (props) => {
     useEffect(()=>{
         if (localStorage.getItem('page') == 'planning') {
             setState({
-                posts: BlogDataPlan.reverse(),
+                posts: BlogDataPlan,
                 currentPage: 1,
                 postsPerPage: 6
             })
         }
         else if (localStorage.getItem('page') == 'elevation') {
             setState({
-                posts: BlogDataEle.reverse(),
+                posts: BlogDataEle,
                 currentPage: 1,
                 postsPerPage: 6
             })
         }
         else {
             setState({
-                posts: BlogDataInt.reverse(),
+                posts: BlogDataInt,
                 currentPage: 1,
                 postsPerPage: 6
             })
