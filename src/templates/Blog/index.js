@@ -29,11 +29,11 @@ const BlogPage = ({ sidebar_position, blog_type, sidebar, showContent = true }) 
     const handleClose = () => setOpen(false);
     return (
         <Fragment>
-            <PageHeader
+            {/* <PageHeader
                 bgImg={require('../../assets/img/page-header.jpg')}
                 title={'From Businex Latest'}
                 content={'Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly.'}
-            />
+            /> */}
 
             <PageWrapper classes={'blog-page-content-area sp-y'}>
                 {console.log("inside page")}

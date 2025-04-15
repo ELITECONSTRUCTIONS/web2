@@ -18,11 +18,11 @@ const PageService = () => {
     return (
         <Fragment>
             <Header/>
-            <PageHeader
+{/*             <PageHeader
                 bgImg={require('../assets/img/page-header.jpg')}
                 title="OUR SERVICES"
                 content="We provide best and most economical solutions."
-            />
+            /> */}
             <PageAbout
                 title={'Our Services'}
                 heading="Provide best <br/> Engineering Solutions"

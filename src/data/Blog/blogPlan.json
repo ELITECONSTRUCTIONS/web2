@@ -1,10 +1,10 @@
 [
   {
-    "id":40,
-    "title":"Ajay Ji",
-    "type":"planning",
+    "id": 40,
+    "title": "Ajay Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/ajay-ji/ajay ji_page-0001.jpg", 
+    "thumb": "planning/ajay-ji/ajay ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -17,12 +17,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":41,
-    "title":"Ashwani Ji",
-    "type":"planning",
+  },
+  {
+    "id": 42,
+    "title": "Bharat Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Ashwani-ji/aswani ji_page-0001.jpg", 
+    "thumb": "planning/Bharat Ji/First floor plan_page-0001 (1).jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -35,12 +36,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":42,
-    "title":"Bharat Ji",
-    "type":"planning",
+  },
+  {
+    "id": 44,
+    "title": "Daima Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Bharat Ji/First floor plan_page-0001 (1).jpg", 
+    "thumb": "planning/daima-ji/daima ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -53,12 +55,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":43,
-    "title":"Chirag Ji",
-    "type":"planning",
+  },
+  {
+    "id": 46,
+    "title": "Dev Sharma Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/CHIRAG-JI/CHIRAG JI_page-0001.jpg", 
+    "thumb": "planning/Dev Sharma Ji/dev sharma ji_page-0001 (1).jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -71,12 +74,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":44,
-    "title":"Daima Ji",
-    "type":"planning",
+  },
+  {
+    "id": 49,
+    "title": "Lucky Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/daima-ji/daima ji_page-0001.jpg", 
+    "thumb": "planning/lucky-ji/lucky ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -89,12 +93,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":45,
-    "title":"DEEPA-JI",
-    "type":"planning",
+  },
+  {
+    "id": 52,
+    "title": "Pramodh Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/DEEPA-JI/DEEPA JI_page-0001.jpg", 
+    "thumb": "planning/Pramodh Ji/Model 2_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -107,12 +112,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":46,
-    "title":"Dev Sharma Ji",
-    "type":"planning",
+  },
+  {
+    "id": 53,
+    "title": "Raj Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Dev Sharma Ji/dev sharma ji_page-0001 (1).jpg", 
+    "thumb": "planning/raj Ji/Raju bhaiya-Model_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -125,12 +131,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":47,
-    "title":"Jain Sir",
-    "type":"planning",
+  },
+  {
+    "id": 55,
+    "title": "RATLAM",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/jain-sir/dr jain sir_page-0001.jpg", 
+    "thumb": "planning/RATLAM/RATLAM_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -143,12 +150,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":48,
-    "title":"JOSHI JI",
-    "type":"planning",
+  },
+  {
+    "id": 57,
+    "title": "Rajveer ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/JOSHI JI/Vikas ji_page-0001.jpg", 
+    "thumb": "planning/Rajveer ji/rangaj mandir_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -161,12 +169,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":49,
-    "title":"Lucky Ji",
-    "type":"planning",
+  },
+  {
+    "id": 58,
+    "title": "RATLAM",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/lucky-ji/lucky ji_page-0001.jpg", 
+    "thumb": "planning/RATLAM/RATLAM_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -179,12 +188,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":50,
-    "title":"Manwani Ji",
-    "type":"planning",
+  },
+  {
+    "id": 59,
+    "title": "Ravi Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/manwani-ji/manwani ji_page-0001.jpg", 
+    "thumb": "planning/Ravi Ji/40X35 ratlam_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -197,12 +207,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":51,
-    "title":"Nalwaya Ji",
-    "type":"planning",
+  },
+  {
+    "id": 60,
+    "title": "Richa Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Nalwaya-ji/Nalwaya ji_page-0001.jpg", 
+    "thumb": "planning/richa Ji/richa jii final-Model_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -215,12 +226,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":52,
-    "title":"Pramodh Ji",
-    "type":"planning",
+  },
+  {
+    "id": 62,
+    "title": "Sachin Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Pramodh Ji/Model 2_page-0001.jpg", 
+    "thumb": "planning/sachin ji/Sachin Ji-Model_page-0001 (1).jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -233,12 +245,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":53,
-    "title":"Raj Ji",
-    "type":"planning",
+  },
+  {
+    "id": 64,
+    "title": "Shivam Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/raj Ji/Raju bhaiya-Model_page-0001.jpg", 
+    "thumb": "planning/SHIVAM-JI/SHIVAM JI_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -251,12 +264,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":54,
-    "title":"Rajveer ji",
-    "type":"planning",
+  },
+  {
+    "id": 65,
+    "title": "Shubham Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Rajveer ji/rangaj mandir_page-0001.jpg", 
+    "thumb": "planning/SHUBHAM-JI/SHUBHAM JI_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -269,12 +283,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":55,
-    "title":"RATLAM",
-    "type":"planning",
+  },
+  {
+    "id": 67,
+    "title": "Tiwari Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/RATLAM/RATLAM_page-0001.jpg", 
+    "thumb": "planning/Tiwari Ji/tulsi nagar-Model_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -287,12 +302,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":56,
-    "title":"Ravi Ji",
-    "type":"planning",
+  },
+  {
+    "id": 68,
+    "title": "Vikas Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Ravi Ji/40X35 ratlam_page-0001.jpg", 
+    "thumb": "planning/VIKAS-JI-25X50/VIKAS JI 25X50_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -305,12 +321,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":57,
-    "title":"Rajveer ji",
-    "type":"planning",
+  },
+  {
+    "id": 41,
+    "title": "Ashwani Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Rajveer ji/rangaj mandir_page-0001.jpg", 
+    "thumb": "planning/Ashwani-ji/aswani ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -323,12 +340,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":58,
-    "title":"RATLAM",
-    "type":"planning",
+  },
+  {
+    "id": 43,
+    "title": "Chirag Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/RATLAM/RATLAM_page-0001.jpg", 
+    "thumb": "planning/CHIRAG-JI/CHIRAG JI_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -341,12 +359,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":59,
-    "title":"Ravi Ji",
-    "type":"planning",
+  },
+  {
+    "id": 50,
+    "title": "Manwani Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Ravi Ji/40X35 ratlam_page-0001.jpg", 
+    "thumb": "planning/manwani-ji/manwani ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -359,12 +378,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":60,
-    "title":"Richa Ji",
-    "type":"planning",
+  },
+  {
+    "id": 48,
+    "title": "JOSHI JI",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/richa Ji/richa jii final-Model_page-0001.jpg", 
+    "thumb": "planning/JOSHI JI/Vikas ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -377,12 +397,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":61,
-    "title":"Rishabh Ji",
-    "type":"planning",
+  },
+  {
+    "id": 45,
+    "title": "DEEPA-JI",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/rishabh-ji/rishabh ji_page-0001.jpg", 
+    "thumb": "planning/DEEPA-JI/DEEPA JI_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -395,12 +416,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":62,
-    "title":"Sachin Ji",
-    "type":"planning",
+  },
+  {
+    "id": 47,
+    "title": "Jain Sir",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/sachin ji/Sachin Ji-Model_page-0001 (1).jpg", 
+    "thumb": "planning/jain-sir/dr jain sir_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -413,12 +435,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":63,
-    "title":"Sethiya Ji",
-    "type":"planning",
+  },
+  {
+    "id": 51,
+    "title": "Nalwaya Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/sethiya-ji/sethiya ji_page-0001.jpg", 
+    "thumb": "planning/Nalwaya-ji/Nalwaya ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -431,12 +454,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":64,
-    "title":"Shivam Ji",
-    "type":"planning",
+  },
+  {
+    "id": 54,
+    "title": "Rajveer ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/SHIVAM-JI/SHIVAM JI_page-0001.jpg", 
+    "thumb": "planning/Rajveer ji/rangaj mandir_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -449,12 +473,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":65,
-    "title":"Shubham Ji",
-    "type":"planning",
+  },
+  {
+    "id": 56,
+    "title": "Ravi Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/SHUBHAM-JI/SHUBHAM JI_page-0001.jpg", 
+    "thumb": "planning/Ravi Ji/40X35 ratlam_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -467,12 +492,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":66,
-    "title":"Sisodiya Ji",
-    "type":"planning",
+  },
+  {
+    "id": 61,
+    "title": "Rishabh Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Sisodiya-ji/Sisodiya ji_page-0001.jpg", 
+    "thumb": "planning/rishabh-ji/rishabh ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -485,12 +511,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":67,
-    "title":"Tiwari Ji",
-    "type":"planning",
+  },
+  {
+    "id": 63,
+    "title": "Sethiya Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/Tiwari Ji/tulsi nagar-Model_page-0001.jpg", 
+    "thumb": "planning/sethiya-ji/sethiya ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -503,12 +530,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":68,
-    "title":"Vikas Ji",
-    "type":"planning",
+  },
+  {
+    "id": 66,
+    "title": "Sisodiya Ji",
+    "type": "planning",
     "excerpt": "",
-    "thumb": "planning/VIKAS-JI-25X50/VIKAS JI 25X50_page-0001.jpg", 
+    "thumb": "planning/Sisodiya-ji/Sisodiya ji_page-0001.jpg",
     "content": "",
     "publishDate": "",
     "author": {

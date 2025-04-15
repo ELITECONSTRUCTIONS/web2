@@ -1,380 +1,439 @@
-[{
-  "id":15,
-  "title":"Deepak Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Deepak/deepak_ji.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":16,
-  "title":"Dev Sharma Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Dev Sharma ji/dev_sharma_ji.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":17,
-  "title":"Girdhari Parmar Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Girdhari Parmar Ji/girdhari_parmar_ji.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":18,
-  "title":"Goyal Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Goyal Ji/9.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":19,
-  "title":"Keyaar Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Keyaar Ji/Mr.Keyaar6-1-2022-.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":20,
-  "title":"Manoj Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Manoj Ji/MANOJ SIR A01.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":21,
-  "title":"Mukut Patel ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Mukut Patel ji/new.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":22,
-  "title":"Narayan Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Narayan Ji/final SV.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":23,
-  "title":"Raj Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Raj Ji/JAI03.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":24,
-  "title":"rakesh sharma ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/rakesh sharma ji/Final 1  copy 2.png", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":25,
-  "title":"rakesh verma ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/rakesh verma ji/final 2 copy.png", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":26,
-  "title":"Ratnesh Sharma Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Ratnesh Sharma Ji/13.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":27,
-  "title":"Reena Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Reena Ji/REENA JI.jpg", 
-  "content": "",
-  "author": {
-    "name": "",
-    "designation": "",
+[
+  {
+    "id": 31,
+    "title": "Shubham Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Shubham Ji/SHUBHAM SIR 001 .jpg",
+    "content": "",
     "publishDate": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 30,
+    "title": "Sanatan Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Sanatan Ji/SANATAN_3D001 .jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 28,
+    "title": "Sachin Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Sachin Ji/JAI.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 19,
+    "title": "Keyaar Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Keyaar Ji/Mr.Keyaar6-1-2022-.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 34,
+    "title": "Vinita Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Vinita Ji/VINATI JI 02.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 16,
+    "title": "Dev Sharma Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Dev Sharma ji/dev_sharma_ji.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 29,
+    "title": "Sagar Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Sagar Ji/front render 1.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 15,
+    "title": "Deepak Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Deepak/deepak_ji.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 27,
+    "title": "Reena Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Reena Ji/REENA JI.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 101,
+    "title": "Ashutosh Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/new/Elevation Ashutosh Ji.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 20,
+    "title": "Manoj Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Manoj Ji/MANOJ SIR A01.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 102,
+    "title": "Santosh Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/new/Santosh Ji Elevation.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 103,
+    "title": "Piyush Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/new/Elevation Piyush Ji.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 33,
+    "title": "Tushar ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/tushar/TUSHAR.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 104,
+    "title": "Verma Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/new/Elevation Verma Ji.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 105,
+    "title": "Bharat Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/new/Bharat Ji Elevation.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 23,
+    "title": "Raj Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Raj Ji/JAI03.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 32,
+    "title": "Shubham Mishra Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Shubham Mishra Ji/saaa.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 21,
+    "title": "Mukut Patel ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Mukut Patel ji/new.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 18,
+    "title": "Goyal Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Goyal Ji/9.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 17,
+    "title": "Girdhari Parmar Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Girdhari Parmar Ji/girdhari_parmar_ji.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 22,
+    "title": "Narayan Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Narayan Ji/final SV.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 26,
+    "title": "Ratnesh Sharma Ji",
+    "type": "elevation",
+    "excerpt": "",
+    "thumb": "elevation/Ratnesh Sharma Ji/13.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
     }
   }
-},
-{
-  "id":28,
-  "title":"Sachin Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Sachin Ji/JAI.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":29,
-  "title":"Sagar Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Sagar Ji/front render 1.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":30,
-  "title":"Sanatan Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Sanatan Ji/SANATAN_3D001 .jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":31,
-  "title":"Shubham Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Shubham Ji/SHUBHAM SIR 001 .jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":32,
-  "title":"Shubham Mishra Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Shubham Mishra Ji/saaa.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":33,
-  "title":"Tushar ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/tushar/TUSHAR.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-},
-{
-  "id":34,
-  "title":"Vinita Ji",
-  "type":"elevation",
-  "excerpt": "",
-  "thumb": "elevation/Vinita Ji/VINATI JI 02.jpg", 
-  "content": "",
-  "publishDate": "",
-  "author": {
-    "name": "",
-    "designation": "",
-    "proPic": "",
-    "socials": {
-      "facebook": "",
-      "twitter": "",
-      "linkedin": ""
-    }
-  }
-}]
+]

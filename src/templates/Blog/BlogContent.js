@@ -8,6 +8,7 @@ import BlogItem from "../../components/Blog/blogItem";
 import BlogItemList from "../../components/Blog/blogItemList";
 
 const BlogContent = (props) => {
+    console.log("props ASK", props)
     const [state, setState] = useState({
         posts: BlogData.reverse(),
         currentPage: 1,

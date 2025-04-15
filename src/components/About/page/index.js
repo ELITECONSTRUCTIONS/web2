@@ -9,8 +9,8 @@ const About = ({title,heading,content,thumb}) => {
                 <div className="row align-items-lg-center">
                     <div className="col-md-6 col-lg-7 order-1">
                         <Content classes="about-content ml-0">
-                            <h6>{title}</h6>
-                            <h2 dangerouslySetInnerHTML={{__html: heading}}/>
+                            <h2>{title}</h2>
+                            <h4 dangerouslySetInnerHTML={{__html: heading}}/>
                             <p dangerouslySetInnerHTML={{__html: content}}/>
                         </Content>
                     </div>

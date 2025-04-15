@@ -1,10 +1,10 @@
 [
   {
-    "id":35,
-    "title":"Bedroom 1",
-    "type":"interior",
+    "id": 37,
+    "title": "Living Room",
+    "type": "interior",
     "excerpt": "",
-    "thumb": "interior/Bedroom 1/MASTER F.F.png", 
+    "thumb": "interior/living room/IMG-20220519-WA0016.jpg",
     "content": "",
     "publishDate": "",
     "author": {
@@ -17,12 +17,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":36,
-    "title":"Cafe design",
-    "type":"interior",
+  },
+  {
+    "id": 40,
+    "title": "Dining area",
+    "type": "interior",
     "excerpt": "",
-    "thumb": "interior/Cafe design/MANAS 1.png", 
+    "thumb": "interior/Interior/Dining area.png",
     "content": "",
     "publishDate": "",
     "author": {
@@ -35,12 +36,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":37,
-    "title":"Living Room",
-    "type":"interior",
+  },
+  {
+    "id": 35,
+    "title": "Bedroom 1",
+    "type": "interior",
     "excerpt": "",
-    "thumb": "interior/living room/IMG-20220519-WA0016.jpg", 
+    "thumb": "interior/Bedroom 1/MASTER F.F.png",
     "content": "",
     "publishDate": "",
     "author": {
@@ -53,12 +55,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":38,
-    "title":"Office",
-    "type":"interior",
+  },
+  {
+    "id": 41,
+    "title": "Amit ji 1",
+    "type": "interior",
     "excerpt": "",
-    "thumb": "interior/office/1.jpg", 
+    "thumb": "interior/Interior/Amit ji 1.png",
     "content": "",
     "publishDate": "",
     "author": {
@@ -71,12 +74,13 @@
         "linkedin": ""
       }
     }
-  },{
-    "id":39,
-    "title":"Tiwari ji",
-    "type":"interior",
+  },
+  {
+    "id": 42,
+    "title": "Amit ji 2",
+    "type": "interior",
     "excerpt": "",
-    "thumb": "interior/Tiwari ji/F.F. 3D PLAN.jpg", 
+    "thumb": "interior/Interior/amit ji 2.png",
     "content": "",
     "publishDate": "",
     "author": {
@@ -88,5 +92,120 @@
         "twitter": "",
         "linkedin": ""
       }
-    }}
+    }
+  },
+  {
+    "id": 38,
+    "title": "Office",
+    "type": "interior",
+    "excerpt": "",
+    "thumb": "interior/office/1.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 43,
+    "title": "Indoor",
+    "type": "interior",
+    "excerpt": "",
+    "thumb": "interior/Interior/1 (1).jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 44,
+    "title": "Indoor",
+    "type": "interior",
+    "excerpt": "",
+    "thumb": "interior/Interior/2 (1).jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 36,
+    "title": "Cafe design",
+    "type": "interior",
+    "excerpt": "",
+    "thumb": "interior/Cafe design/MANAS 1.png",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 39,
+    "title": "Tiwari ji",
+    "type": "interior",
+    "excerpt": "",
+    "thumb": "interior/Tiwari ji/F.F. 3D PLAN.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  },
+  {
+    "id": 45,
+    "title": "22.3",
+    "type": "interior",
+    "excerpt": "",
+    "thumb": "interior/Interior/22.3.jpg",
+    "content": "",
+    "publishDate": "",
+    "author": {
+      "name": "",
+      "designation": "",
+      "proPic": "",
+      "socials": {
+        "facebook": "",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  }
 ]
