@@ -3,7 +3,6 @@ import Header from "../components/Header";
 import PageHeader from "../components/PageHeader";
 import About from "../components/About/page";
 import TeamMember from '../templates/Team'
-import BrandLogo from "../components/BrandLogo";
 import Funfact from "../components/Funfact";
 import CallToAction from "../components/CallToAction";
 import Footer from "../components/Footer";

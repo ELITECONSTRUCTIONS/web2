@@ -1,12 +1,6 @@
 import React from 'react';
 
 const HeaderConfig = () => {
-    const LoginRegHandler = () => {
-        const offCanvasConfig = document.querySelector('.off-canvas-cog');
-        offCanvasConfig.classList.add('active');
-        document.querySelector('body').classList.add('fix');
-    }
-
     const MobileMenuHandler = () => {
         const offCanvasMenu = document.querySelector('.off-canvas-menu');
         offCanvasMenu.classList.add('active');

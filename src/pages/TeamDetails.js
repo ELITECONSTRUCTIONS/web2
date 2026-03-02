@@ -1,7 +1,6 @@
 import React,{Fragment} from 'react';
 import Header from "../components/Header";
 import TeamDetailsPage from "../templates/TeamDetails";
-import BrandLogo from "../components/BrandLogo";
 import Funfact from "../components/Funfact";
 import CallToAction from "../components/CallToAction";
 import Footer from "../components/Footer";

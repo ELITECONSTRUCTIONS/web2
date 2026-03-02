@@ -67,7 +67,7 @@ const ImageGallery = () => {
                 onClick={() => openLightbox(index)}
               >
                 <LazyLoadImage
-                  alt={`Gallery image ${index + 1}`}
+                  alt={`Project ${index + 1}`}
                   effect="blur"
                   src={image}
                   threshold={300}
@@ -93,7 +93,7 @@ const ImageGallery = () => {
               
               <img 
                 src={images[selectedImage]} 
-                alt={`Gallery image ${selectedImage + 1}`}
+                alt={`Project ${selectedImage + 1}`}
                 className="lightbox-image"
               />
               
