@@ -15,14 +15,14 @@ const BlogContent = (props) => {
         postsPerPage: 6
     });
     useEffect(()=>{
-        if (localStorage.getItem('page') == 'planning') {
+        if (localStorage.getItem('page') === 'planning') {
             setState({
                 posts: BlogDataPlan,
                 currentPage: 1,
                 postsPerPage: 6
             })
         }
-        else if (localStorage.getItem('page') == 'elevation') {
+        else if (localStorage.getItem('page') === 'elevation') {
             setState({
                 posts: BlogDataEle,
                 currentPage: 1,

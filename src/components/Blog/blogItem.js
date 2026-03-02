@@ -1,10 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
-import './modal.css'; // Make sure to create this file
+import './modal.css';
 
 function BlogItem(props) {
     const [modalOpen, setModalOpen] = useState(false);
-    const blogURL = `/blog/${props.title.split(' ').join('-').toLocaleLowerCase()}?id=${props.id}`;
     
     // Add effect for debugging
     useEffect(() => {
@@ -24,7 +22,7 @@ function BlogItem(props) {
     console.log("Rendering BlogItem, modalOpen:", modalOpen);
     
     return (
-        localStorage.getItem("page") == props.type && (
+        localStorage.getItem("page") === props.type && (
             <div className={props.cols ? props.cols : 'col-md-6 col-lg-4'}>
                 <div className="blog-item">
                     {props.thumb ? (

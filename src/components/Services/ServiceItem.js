@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import {Link} from "react-router-dom";
 import ImageModal from '../Modal/ImageModal';
 
 function ServiceItem(props) {
@@ -28,8 +27,6 @@ function ServiceItem(props) {
             document.body.style.overflow = 'auto';
         };
     }, [modalOpen, setModalOpen]);
-
-    const serviceURL = `/service/${props.title.split(' ').join('-').toLowerCase()}?id=${props.id}`
 
     return (
         <div className="col-sm-6 col-lg-4">

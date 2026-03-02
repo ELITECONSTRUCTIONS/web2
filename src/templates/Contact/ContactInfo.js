@@ -1,5 +1,5 @@
 import React,{Fragment} from 'react';
-import socialNetworks from '../../data/SocialNetworks/socials'
+
 
 const ContactInfo = ({address}) => {
     return (

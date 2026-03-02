@@ -7,8 +7,6 @@ import Sidebar from "../../components/Sidebar";
 import SidebarItem from "../../components/Sidebar/SidebarItem";
 import List from "../../components/UI/List";
 import LI from "../../components/UI/List/Item";
-import Anchor from "../../components/UI/Anchor";
-
 import ServicesData from "../../data/Services/services";
 
 const ServiceDetails = () => {

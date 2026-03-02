@@ -13,7 +13,6 @@ import CallToAction from "../components/CallToAction";
 import Footer from "../components/Footer";
 import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
-import PageGallery from "./Gallery";
 const HomeTwo = () => {
     return (
         <Fragment>
